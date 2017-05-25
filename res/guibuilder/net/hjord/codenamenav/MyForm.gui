@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<component type="Form" layout="FlowLayout" flowLayoutFillRows="false" flowLayoutAlign="1" flowLayoutValign="0"  title="MyForm" name="MyForm">
+  <component type="Label" text="This is my form" name="Label_1">
+  </component>
+  <component type="Button" text="Button" name="Button_1" actionEvent="true">
+  </component>
+</component>
